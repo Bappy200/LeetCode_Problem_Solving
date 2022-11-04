@@ -1,5 +1,4 @@
 
-a = ["hello","file"]
+a = ["(","file"]
 
-for i in a[0]:
-    print(i)
+print("(" in a[0])
