@@ -35,5 +35,5 @@
 #
 # print(result)
 
-s = "   fly me   to   the moon  "
-print(s.split().pop())
+digits = [4,3,2,1]
+print(str(digits).join(","))
