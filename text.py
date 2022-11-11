@@ -35,5 +35,11 @@
 #
 # print(result)
 
-digits = [4,3,2,1]
-print(str(digits).join(","))
+# digits = [4,3,2,1]
+# print(str(digits).join(","))
+
+result = '1'
+result = '1' == result[0]
+print(result)
+from math import sqrt
+print(71*71)
